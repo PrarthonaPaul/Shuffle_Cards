@@ -1,0 +1,21 @@
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\bin\Debug\PaulP_ClassesAssn03.exe.config
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\bin\Debug\PaulP_ClassesAssn03.exe
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\bin\Debug\PaulP_ClassesAssn03.pdb
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.csprojAssemblyReference.cache
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.frmShuffleCards.resources
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.Properties.Resources.resources
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.csproj.GenerateResource.cache
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.csproj.CoreCompileInputs.cache
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.exe
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.pdb
+C:\Users\343945614\Desktop\USB FIES\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.frmCard.resources
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.csprojAssemblyReference.cache
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.frmShuffleCards.resources
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.frmCard.resources
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.Properties.Resources.resources
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.csproj.GenerateResource.cache
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.exe
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\obj\Debug\PaulP_ClassesAssn03.pdb
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\bin\Debug\PaulP_ClassesAssn03.exe.config
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\bin\Debug\PaulP_ClassesAssn03.exe
+C:\Users\prart\Desktop\PaulP_ClassesAssn03\PaulP_ClassesAssn03\bin\Debug\PaulP_ClassesAssn03.pdb
